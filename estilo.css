@@ -1,0 +1,50 @@
+body{
+    background-color: #98A2B7;
+}
+
+.quadro{
+    background-color: #F9FAFA;
+    width: 700px;
+    height: 300px;
+    margin: auto;
+    border-radius: 30px;
+}
+
+.title{
+    text-align: center;
+    font-family: initial;
+    font-size: 21px;
+    color: #333333;
+    margin-top: 60px;
+    padding-top: 2px;
+}
+
+#cidade{
+    width: 220px;
+    height: 25px;
+    background-color: rgb(216, 215, 215);
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin: 7px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+#button{
+    width: 100px;
+    height: 35px;
+    border: none;
+    outline: none;
+    background-color:#0a0a23;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+
+
+.submeter{
+    text-align: center;
+}
+
